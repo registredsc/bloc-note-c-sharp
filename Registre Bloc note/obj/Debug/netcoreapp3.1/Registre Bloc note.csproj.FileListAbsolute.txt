@@ -1,0 +1,33 @@
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.exe
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.deps.json
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.runtimeconfig.json
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.runtimeconfig.dev.json
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.dll
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.pdb
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.csprojAssemblyReference.cache
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre_Bloc_note.Form1.resources
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre_Bloc_note.Properties.Resources.resources
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.csproj.GenerateResource.cache
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.AssemblyInfoInputs.cache
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.AssemblyInfo.cs
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.csproj.CoreCompileInputs.cache
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.dll
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.pdb
+C:\Users\luca\source\repos\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.genruntimeconfig.cache
+D:\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.exe
+D:\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.deps.json
+D:\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.runtimeconfig.json
+D:\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.runtimeconfig.dev.json
+D:\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.dll
+D:\Registre Bloc note\Registre Bloc note\bin\Debug\netcoreapp3.1\Registre Bloc note.pdb
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.csproj.AssemblyReference.cache
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre_Bloc_note.Form1.resources
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre_Bloc_note.Properties.Resources.resources
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.csproj.GenerateResource.cache
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.GeneratedMSBuildEditorConfig.editorconfig
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.AssemblyInfoInputs.cache
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.AssemblyInfo.cs
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.csproj.CoreCompileInputs.cache
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.dll
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.pdb
+D:\Registre Bloc note\Registre Bloc note\obj\Debug\netcoreapp3.1\Registre Bloc note.genruntimeconfig.cache
